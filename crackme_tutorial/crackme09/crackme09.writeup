@@ -1,0 +1,25 @@
+first of all like other challenges is see the source with binary ninja.
+it was clear that it iterate over all character input and for each character if some condition happen it increament the rax register.
+base on rax register we have some cases.
+for the two first char it was clear that they should be 'Q' and 'z' char.
+for the third character we can see that it cant be the 'z' char and the based on its  '3' or not rax register has diffrent value.
+if you see the condition that if it happen we go to successed function, you can see rax should be 0xa and no character remain in our input.
+sounds that we sould pass all the cases in switch case.
+after that i run the gdb with my input and see that with which input rax register increased.
+for exapmle for the third char i test both '3' and 'another char' and i see if char was '3' rax was incremented.
+forth char ------------> '2' or other char
+fifth char ------------> '7'
+sixth char --------------> 'x'
+after six char i see that 2 added ro rax and it becamed 7 so it passed the sixth char. in 7 case if the char is not 'x' it back to 6 case. then in 6 case if char was 'x' it added 2 to rax and went to 8 case so we should swap the eighth and seventh char.
+seventh char -----------> something exept 'x'
+eighth char ----------> 'n' or other char
+ninth char ------------> 'l'
+tenth char -------------> '9'
+
+and after that rax became 0xa and no char remain in input.
+so the answer was ------> 'Qz327xnnl9'
+
+
+
+
+

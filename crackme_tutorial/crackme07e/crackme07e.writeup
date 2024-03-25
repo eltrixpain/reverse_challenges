@@ -1,0 +1,17 @@
+first like other challenges is see the source with binary ninja.
+we can see it check to condition to reach successed function.
+first check our input with 'notapassword'
+and second check the return value of function cur_hour() - 2 that should be less or equal 1
+so we shoud check the cur_hour func and its return value
+as we can see it get the value of localtime function and return the hour.
+it seems that we should change the hour of our system.
+so i change it with the below command 
+timedatectl set-ntp off 
+timedatectl set-time 03:10:10
+and run the binary 
+./crackme07e.64 notapassword
+Access granted!
+
+
+so fun!!!
+

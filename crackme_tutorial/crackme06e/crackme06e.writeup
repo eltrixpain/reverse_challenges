@@ -1,0 +1,15 @@
+first like other challenges is see the source with binary ninja.
+its clear that first it sholud read the file that we pass the name of it as arguman.
+and it compare the 'leotindall.com' value with the content of our file
+so i create a file and write the leotindall.com in file.
+but when i run binary with the name of file i see that it sayes
+access denied!!!!!!!!!!!
+so i run gdb with below command
+gdb ./crackme06e.64 
+run input (input was my file)
+ni (until reach to strcmp call)
+i see that the content of my file that it reads is leotindall.com\n
+so i remove all the \n char with the below command and after that it became correct
+truncate -s -1 input
+
+

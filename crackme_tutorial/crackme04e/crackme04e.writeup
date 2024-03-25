@@ -1,0 +1,7 @@
+first of all like other challenges is see the source with binary ninja.
+we can see a while that iterate throw all input character.
+in each iteration it add the value of char(ascii value) to the rcx_1 and add 1 to rdi
+after while ended. it check sum of our character and it length with two value '0xdd6' and '0x20' in order
+so we only need a string with exactl sum and 32 character length like:
+'zzzzzzzzzzzzzzzzzzzzzzzzzzz22220'
+fun!!!!

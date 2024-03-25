@@ -1,0 +1,18 @@
+first of all like other challenges is see the source with binary ninja.
+it's clear if the check_pw function reutrn 1 we enter the correct password
+3 arguman pass to check_pw function 'our input' , 'password' , '0x103000104020503' 
+so i see the check_pw and figure out that it check each char of our input with each char of password string + lower byte of 0x103000104020503
+so i write the below python script and find the correct passwrd
+
+
+password = "password"
+const_var = [3,5,2,4,1,0,3,1]
+new_pass = ""
+for i in range(len(password)):
+    new_char = chr(ord(password[i]) + const_var[i])
+    new_pass+=new_char
+
+print(new_pass)
+
+
+and the password is 'sfuwxoue'

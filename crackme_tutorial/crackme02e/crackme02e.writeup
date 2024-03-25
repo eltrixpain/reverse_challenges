@@ -1,0 +1,14 @@
+first like other challenges is see the source with binary ninja.
+its clear that it check each input char with yuvmnpoi - 2 in order.
+with this python code we can see the yuvmnpoi - 2 string.
+
+python3
+>>> text = ""
+>>> for i in "yuvmnpoi":
+...     text+=chr(ord(i)-2)
+... 
+>>> print(text)
+wstklnmg
+
+so the answer is wstklnmg
+

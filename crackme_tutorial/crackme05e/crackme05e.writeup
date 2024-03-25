@@ -1,0 +1,22 @@
+first like other challenges is see the source with binary ninja.
+we can see a some conditions that if we pass them we find the correct password.
+lets go throw the conditions.
+the first condition check the our input and it sould be 16.
+then it check the third index of our input should be 'm'
+next check the tenth index of our input should be "'" -------> actually the ' character
+other condtion check return value of check_with_mod function
+so we need to see this function
+as we can see in this function a while iterate for arg2 times throw our string and sum the ascii value of them to a variable
+at the end it check the mod of sum variable with arg3 and if it was zero return true.
+for example for the first condition it pass the poiter to the first char of our string and 4 as arg2 and 2 as arg3
+so it sum the four first value of our string and mod with 2
+next condition check sum the four second value of our string with 3 
+and we can see all other condition like two above
+so we should have a password with 16 length and '..m.......'.....'
+that . should be each character was correct in the check_with_mod function.
+sample for the correct password is 
+(mmmmooooG\'FFmmmm)
+
+fun !!!
+
+

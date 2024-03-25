@@ -1,0 +1,11 @@
+first like other challenges is see the source with binary ninja.
+when i see the that in the end of the main function exist a comapre between the rax register and my arguman and if they be equal we go to the successed function,
+i undrstand the only thing that i need is see the value of rax register in cmp insturction with gdb.
+then i run the binary with gdb
+[gdb ./crackme08.64]
+in gdb command line
+[b main]
+[run testtesttest]
+[ni (until reach to cmp insturction)]
+and i see the (GenuineIntel3Q) in the rax register.
+so fun!!!!
