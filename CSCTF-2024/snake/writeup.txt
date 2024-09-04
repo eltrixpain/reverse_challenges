@@ -1,0 +1,17 @@
+first i run the binary and see this "You need to get exactly 16525 points for the flag"
+
+then i try to find the instruction that compare the Score and 16525 in IDA but i didnt find (my bad!!!!)
+
+so i decided to change Score value in memory with 16525.
+
+i use memscan and find the value of Score in stack and change it to 16525.
+
+nothing changed after change the value in memory because it compare the Score value after getting 10 score each time.
+
+so we need to set the Score to 16515.
+
+nice
+
+we find the flag!!!
+
+Flag: CSCTF{Y0u_b34T_My_Sl1th3r_G4m3!}

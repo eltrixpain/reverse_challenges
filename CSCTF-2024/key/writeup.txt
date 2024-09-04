@@ -1,0 +1,6 @@
+#elpainrix
+
+
+simple bruteforce character
+no more
+use ida pro to decompile!!!

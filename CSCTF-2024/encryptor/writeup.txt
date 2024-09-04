@@ -1,0 +1,16 @@
+#elpainrix
+
+decompile using http://www.javadecompilers.com/apk
+after decompile i find the function that encryptes strings in encryptor.apk/sources/com/example/encryptor/MainActivity.java
+
+it's clear in encryptText function, it uses Blowfish enctryption.
+with this https://sladex.org/blowfish.js/ it show's that decryption of flag need a key.
+back to soruce code and see the getKey function that return "ZW5jcnlwdG9yZW5jcnlwdG9y" string as key in base64 format.
+
+so all i need is just replace the data field with OIkZTMehxXAvICdQSusoDP6Hn56nDiwfGxt7w/Oia4oxWJE3NVByYnOMbqTuhXKcgg50DmVpudg= and key with decode of above string that is "encryptorencryptor"
+
+the result is:
+CSCTF{3ncrypt0r_15nt_s4Fe_w1th_4n_h4Rdc0d3D_k3y!}
+
+
+cool!!
