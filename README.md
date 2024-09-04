@@ -1,1 +1,1 @@
-Writeups to challenges solved by !!!!!
+Writeups to challenges solved by eltrix,elpaintrix,smghmatrix!!!!!
