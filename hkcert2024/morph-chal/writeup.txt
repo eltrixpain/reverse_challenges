@@ -1,0 +1,7 @@
+after i see the decompilation of the binray i see that some verify function is for check the flag
+
+because them be decompressed in runtime i used gdb to see how they do
+
+after using gdb i see that all of them do some xor operation between to followed char in input and then check it with some constant
+
+i extract all of them (54 equatoin) and find the flag

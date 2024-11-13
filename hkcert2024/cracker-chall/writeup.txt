@@ -1,0 +1,7 @@
+it only check first byte last byte
+3 last byte in a equation
+and other obtain by a xor operatoin
+other can be find by xor.py
+
+but equeation hasnt uniq answer
+for this i brute force with brute.py and find the meaning full of them that was 'cha'

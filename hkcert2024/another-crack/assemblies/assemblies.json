@@ -1,0 +1,1126 @@
+{
+    "stores": [
+        {
+            "assemblies.blob": {
+                "header": {
+                    "version": 1,
+                    "lec": 107,
+                    "gec": 110,
+                    "store_id": 0
+                }
+            }
+        },
+        {
+            "assemblies.arm64_v8a.blob": {
+                "header": {
+                    "version": 1,
+                    "lec": 3,
+                    "gec": 0,
+                    "store_id": 1
+                }
+            }
+        }
+    ],
+    "assemblies": [
+        {
+            "lz4": true,
+            "name": "ar/Microsoft.Maui.Controls.resources",
+            "store_id": 0,
+            "blob_idx": 0,
+            "hash32": "0x33e88be1",
+            "hash64": "0x0ea6dd31d50a0038",
+            "file": "out/ar/Microsoft.Maui.Controls.resources.dll",
+            "lz4_desc_idx": 73
+        },
+        {
+            "lz4": true,
+            "name": "ca/Microsoft.Maui.Controls.resources",
+            "store_id": 0,
+            "blob_idx": 1,
+            "hash32": "0x0335cdbc",
+            "hash64": "0xb7bcc599c5ce144b",
+            "file": "out/ca/Microsoft.Maui.Controls.resources.dll",
+            "lz4_desc_idx": 80
+        },
+        {
+            "lz4": true,
+            "name": "cs/Microsoft.Maui.Controls.resources",
+            "store_id": 0,
+            "blob_idx": 2,
+            "hash32": "0x15502fa0",
+            "hash64": "0x2296b6c41bbdfe48",
+            "file": "out/cs/Microsoft.Maui.Controls.resources.dll",
+            "lz4_desc_idx": 81
+        },
+        {
+            "lz4": true,
+            "name": "da/Microsoft.Maui.Controls.resources",
+            "store_id": 0,
+            "blob_idx": 3,
+            "hash32": "0xd7f95f5a",
+            "hash64": "0x2161bf315d42ddd8",
+            "file": "out/da/Microsoft.Maui.Controls.resources.dll",
+            "lz4_desc_idx": 82
+        },
+        {
+            "lz4": true,
+            "name": "de/Microsoft.Maui.Controls.resources",
+            "store_id": 0,
+            "blob_idx": 4,
+            "hash32": "0xd664cdf2",
+            "hash64": "0xd3f51e91f4fba27c",
+            "file": "out/de/Microsoft.Maui.Controls.resources.dll",
+            "lz4_desc_idx": 83
+        },
+        {
+            "lz4": true,
+            "name": "el/Microsoft.Maui.Controls.resources",
+            "store_id": 0,
+            "blob_idx": 5,
+            "hash32": "0xaa4e51ff",
+            "hash64": "0x762e07d427a84f11",
+            "file": "out/el/Microsoft.Maui.Controls.resources.dll",
+            "lz4_desc_idx": 84
+        },
+        {
+            "lz4": true,
+            "name": "es/Microsoft.Maui.Controls.resources",
+            "store_id": 0,
+            "blob_idx": 6,
+            "hash32": "0x3b4797e5",
+            "hash64": "0xd6ce3a99c4c55a3a",
+            "file": "out/es/Microsoft.Maui.Controls.resources.dll",
+            "lz4_desc_idx": 85
+        },
+        {
+            "lz4": true,
+            "name": "fi/Microsoft.Maui.Controls.resources",
+            "store_id": 0,
+            "blob_idx": 7,
+            "hash32": "0x464305ed",
+            "hash64": "0x431c03bd573d14ff",
+            "file": "out/fi/Microsoft.Maui.Controls.resources.dll",
+            "lz4_desc_idx": 86
+        },
+        {
+            "lz4": true,
+            "name": "fr/Microsoft.Maui.Controls.resources",
+            "store_id": 0,
+            "blob_idx": 8,
+            "hash32": "0x5cabc9a4",
+            "hash64": "0xf29fa538054fcb43",
+            "file": "out/fr/Microsoft.Maui.Controls.resources.dll",
+            "lz4_desc_idx": 87
+        },
+        {
+            "lz4": true,
+            "name": "he/Microsoft.Maui.Controls.resources",
+            "store_id": 0,
+            "blob_idx": 9,
+            "hash32": "0xda4773dd",
+            "hash64": "0x7b9bd0432ee0775b",
+            "file": "out/he/Microsoft.Maui.Controls.resources.dll",
+            "lz4_desc_idx": 88
+        },
+        {
+            "lz4": true,
+            "name": "hi/Microsoft.Maui.Controls.resources",
+            "store_id": 0,
+            "blob_idx": 10,
+            "hash32": "0x1f6bf43d",
+            "hash64": "0x892b6353f9ade8f4",
+            "file": "out/hi/Microsoft.Maui.Controls.resources.dll",
+            "lz4_desc_idx": 89
+        },
+        {
+            "lz4": true,
+            "name": "hr/Microsoft.Maui.Controls.resources",
+            "store_id": 0,
+            "blob_idx": 11,
+            "hash32": "0x781074ce",
+            "hash64": "0xd6c1775e69862f5e",
+            "file": "out/hr/Microsoft.Maui.Controls.resources.dll",
+            "lz4_desc_idx": 90
+        },
+        {
+            "lz4": true,
+            "name": "hu/Microsoft.Maui.Controls.resources",
+            "store_id": 0,
+            "blob_idx": 12,
+            "hash32": "0x6c96614d",
+            "hash64": "0xa4fd6909806d9c67",
+            "file": "out/hu/Microsoft.Maui.Controls.resources.dll",
+            "lz4_desc_idx": 91
+        },
+        {
+            "lz4": true,
+            "name": "id/Microsoft.Maui.Controls.resources",
+            "store_id": 0,
+            "blob_idx": 13,
+            "hash32": "0xf29c5384",
+            "hash64": "0xa84150c49e58dcd9",
+            "file": "out/id/Microsoft.Maui.Controls.resources.dll",
+            "lz4_desc_idx": 92
+        },
+        {
+            "lz4": true,
+            "name": "it/Microsoft.Maui.Controls.resources",
+            "store_id": 0,
+            "blob_idx": 14,
+            "hash32": "0x79d00016",
+            "hash64": "0x673f79faf756ee56",
+            "file": "out/it/Microsoft.Maui.Controls.resources.dll",
+            "lz4_desc_idx": 93
+        },
+        {
+            "lz4": true,
+            "name": "ja/Microsoft.Maui.Controls.resources",
+            "store_id": 0,
+            "blob_idx": 15,
+            "hash32": "0x74d743bf",
+            "hash64": "0xe846da1c780aeb9c",
+            "file": "out/ja/Microsoft.Maui.Controls.resources.dll",
+            "lz4_desc_idx": 94
+        },
+        {
+            "lz4": true,
+            "name": "ko/Microsoft.Maui.Controls.resources",
+            "store_id": 0,
+            "blob_idx": 16,
+            "hash32": "0x8030853e",
+            "hash64": "0x1dc7c302481e97d3",
+            "file": "out/ko/Microsoft.Maui.Controls.resources.dll",
+            "lz4_desc_idx": 95
+        },
+        {
+            "lz4": true,
+            "name": "ms/Microsoft.Maui.Controls.resources",
+            "store_id": 0,
+            "blob_idx": 17,
+            "hash32": "0xdbb50d93",
+            "hash64": "0xe0cddeca55a01581",
+            "file": "out/ms/Microsoft.Maui.Controls.resources.dll",
+            "lz4_desc_idx": 96
+        },
+        {
+            "lz4": true,
+            "name": "nb/Microsoft.Maui.Controls.resources",
+            "store_id": 0,
+            "blob_idx": 18,
+            "hash32": "0x6be1e423",
+            "hash64": "0xddfa46462d825401",
+            "file": "out/nb/Microsoft.Maui.Controls.resources.dll",
+            "lz4_desc_idx": 97
+        },
+        {
+            "lz4": true,
+            "name": "nl/Microsoft.Maui.Controls.resources",
+            "store_id": 0,
+            "blob_idx": 19,
+            "hash32": "0x905caa9d",
+            "hash64": "0xd651ac9394bc7162",
+            "file": "out/nl/Microsoft.Maui.Controls.resources.dll",
+            "lz4_desc_idx": 98
+        },
+        {
+            "lz4": true,
+            "name": "pl/Microsoft.Maui.Controls.resources",
+            "store_id": 0,
+            "blob_idx": 20,
+            "hash32": "0xf5861a4f",
+            "hash64": "0x16cde9e27a8d02d7",
+            "file": "out/pl/Microsoft.Maui.Controls.resources.dll",
+            "lz4_desc_idx": 99
+        },
+        {
+            "lz4": true,
+            "name": "pt-BR/Microsoft.Maui.Controls.resources",
+            "store_id": 0,
+            "blob_idx": 21,
+            "hash32": "0xd96cf6f7",
+            "hash64": "0x526c2ff200a2a3b6",
+            "file": "out/pt-BR/Microsoft.Maui.Controls.resources.dll",
+            "lz4_desc_idx": 100
+        },
+        {
+            "lz4": true,
+            "name": "pt/Microsoft.Maui.Controls.resources",
+            "store_id": 0,
+            "blob_idx": 22,
+            "hash32": "0xfc5f7d36",
+            "hash64": "0x2b2042103982255c",
+            "file": "out/pt/Microsoft.Maui.Controls.resources.dll",
+            "lz4_desc_idx": 101
+        },
+        {
+            "lz4": true,
+            "name": "ro/Microsoft.Maui.Controls.resources",
+            "store_id": 0,
+            "blob_idx": 23,
+            "hash32": "0x810c11c2",
+            "hash64": "0x6a0dd878d2516688",
+            "file": "out/ro/Microsoft.Maui.Controls.resources.dll",
+            "lz4_desc_idx": 102
+        },
+        {
+            "lz4": true,
+            "name": "ru/Microsoft.Maui.Controls.resources",
+            "store_id": 0,
+            "blob_idx": 24,
+            "hash32": "0xabdea79a",
+            "hash64": "0xadeeb6fb059919bf",
+            "file": "out/ru/Microsoft.Maui.Controls.resources.dll",
+            "lz4_desc_idx": 103
+        },
+        {
+            "lz4": true,
+            "name": "sk/Microsoft.Maui.Controls.resources",
+            "store_id": 0,
+            "blob_idx": 25,
+            "hash32": "0x963ac2da",
+            "hash64": "0x76fa805c508080cb",
+            "file": "out/sk/Microsoft.Maui.Controls.resources.dll",
+            "lz4_desc_idx": 104
+        },
+        {
+            "lz4": true,
+            "name": "sv/Microsoft.Maui.Controls.resources",
+            "store_id": 0,
+            "blob_idx": 26,
+            "hash32": "0x5e33306d",
+            "hash64": "0x8debc9ef5e8a8bf3",
+            "file": "out/sv/Microsoft.Maui.Controls.resources.dll",
+            "lz4_desc_idx": 105
+        },
+        {
+            "lz4": true,
+            "name": "th/Microsoft.Maui.Controls.resources",
+            "store_id": 0,
+            "blob_idx": 27,
+            "hash32": "0x8873eb17",
+            "hash64": "0x2c6fd2bce55e3c11",
+            "file": "out/th/Microsoft.Maui.Controls.resources.dll",
+            "lz4_desc_idx": 106
+        },
+        {
+            "lz4": true,
+            "name": "tr/Microsoft.Maui.Controls.resources",
+            "store_id": 0,
+            "blob_idx": 28,
+            "hash32": "0x8d3fac99",
+            "hash64": "0x76c2d8d8a2289331",
+            "file": "out/tr/Microsoft.Maui.Controls.resources.dll",
+            "lz4_desc_idx": 107
+        },
+        {
+            "lz4": true,
+            "name": "uk/Microsoft.Maui.Controls.resources",
+            "store_id": 0,
+            "blob_idx": 29,
+            "hash32": "0xa7042ae3",
+            "hash64": "0x5d747951d4a816db",
+            "file": "out/uk/Microsoft.Maui.Controls.resources.dll",
+            "lz4_desc_idx": 108
+        },
+        {
+            "lz4": true,
+            "name": "vi/Microsoft.Maui.Controls.resources",
+            "store_id": 0,
+            "blob_idx": 30,
+            "hash32": "0xd328ac54",
+            "hash64": "0x9a6f1213fa5cb0d8",
+            "file": "out/vi/Microsoft.Maui.Controls.resources.dll",
+            "lz4_desc_idx": 109
+        },
+        {
+            "lz4": true,
+            "name": "zh-HK/Microsoft.Maui.Controls.resources",
+            "store_id": 0,
+            "blob_idx": 31,
+            "hash32": "0x06c2cd46",
+            "hash64": "0xe4dcd8d787589fcf",
+            "file": "out/zh-HK/Microsoft.Maui.Controls.resources.dll",
+            "lz4_desc_idx": 116
+        },
+        {
+            "lz4": true,
+            "name": "zh-Hans/Microsoft.Maui.Controls.resources",
+            "store_id": 0,
+            "blob_idx": 32,
+            "hash32": "0x3b3271e4",
+            "hash64": "0x9abd386fcccf90a8",
+            "file": "out/zh-Hans/Microsoft.Maui.Controls.resources.dll",
+            "lz4_desc_idx": 117
+        },
+        {
+            "lz4": true,
+            "name": "zh-Hant/Microsoft.Maui.Controls.resources",
+            "store_id": 0,
+            "blob_idx": 33,
+            "hash32": "0x5ed5f779",
+            "hash64": "0x986ffb4ee955d726",
+            "file": "out/zh-Hant/Microsoft.Maui.Controls.resources.dll",
+            "lz4_desc_idx": 118
+        },
+        {
+            "lz4": true,
+            "name": "_Microsoft.Android.Resource.Designer",
+            "store_id": 0,
+            "blob_idx": 34,
+            "hash32": "0x17969339",
+            "hash64": "0x583a3a4ac2a7a0f8",
+            "file": "out/_Microsoft.Android.Resource.Designer.dll",
+            "lz4_desc_idx": 72
+        },
+        {
+            "lz4": true,
+            "name": "Microsoft.Extensions.Configuration",
+            "store_id": 0,
+            "blob_idx": 35,
+            "hash32": "0x8d52b2e2",
+            "hash64": "0x30808ba1c00a455a",
+            "file": "out/Microsoft.Extensions.Configuration.dll",
+            "lz4_desc_idx": 3
+        },
+        {
+            "lz4": true,
+            "name": "Microsoft.Extensions.Configuration.Abstractions",
+            "store_id": 0,
+            "blob_idx": 36,
+            "hash32": "0x871c9c1b",
+            "hash64": "0x327cc89a39d5f53c",
+            "file": "out/Microsoft.Extensions.Configuration.Abstractions.dll",
+            "lz4_desc_idx": 2
+        },
+        {
+            "lz4": true,
+            "name": "Microsoft.Extensions.DependencyInjection",
+            "store_id": 0,
+            "blob_idx": 37,
+            "hash32": "0xf5f4f1f0",
+            "hash64": "0x24df3b84c8b75da8",
+            "file": "out/Microsoft.Extensions.DependencyInjection.dll",
+            "lz4_desc_idx": 5
+        },
+        {
+            "lz4": true,
+            "name": "Microsoft.Extensions.DependencyInjection.Abstractions",
+            "store_id": 0,
+            "blob_idx": 38,
+            "hash32": "0x3d548d92",
+            "hash64": "0xd59a58c406411f89",
+            "file": "out/Microsoft.Extensions.DependencyInjection.Abstractions.dll",
+            "lz4_desc_idx": 4
+        },
+        {
+            "lz4": true,
+            "name": "Microsoft.Extensions.Logging",
+            "store_id": 0,
+            "blob_idx": 39,
+            "hash32": "0x20216150",
+            "hash64": "0xa004d1504ccd66be",
+            "file": "out/Microsoft.Extensions.Logging.dll",
+            "lz4_desc_idx": 7
+        },
+        {
+            "lz4": true,
+            "name": "Microsoft.Extensions.Logging.Abstractions",
+            "store_id": 0,
+            "blob_idx": 40,
+            "hash32": "0x82a8237c",
+            "hash64": "0x98b1013215cd365e",
+            "file": "out/Microsoft.Extensions.Logging.Abstractions.dll",
+            "lz4_desc_idx": 6
+        },
+        {
+            "lz4": true,
+            "name": "Microsoft.Extensions.Options",
+            "store_id": 0,
+            "blob_idx": 41,
+            "hash32": "0x2f0980eb",
+            "hash64": "0x5b0a571be53243a5",
+            "file": "out/Microsoft.Extensions.Options.dll",
+            "lz4_desc_idx": 8
+        },
+        {
+            "lz4": true,
+            "name": "Microsoft.Extensions.Primitives",
+            "store_id": 0,
+            "blob_idx": 42,
+            "hash32": "0x57a5e912",
+            "hash64": "0xb23ca48abd74d61e",
+            "file": "out/Microsoft.Extensions.Primitives.dll",
+            "lz4_desc_idx": 9
+        },
+        {
+            "lz4": true,
+            "name": "Microsoft.Maui.Controls",
+            "store_id": 0,
+            "blob_idx": 43,
+            "hash32": "0x93dba8a1",
+            "hash64": "0x8c10f49539bd0c64",
+            "file": "out/Microsoft.Maui.Controls.dll",
+            "lz4_desc_idx": 11
+        },
+        {
+            "lz4": true,
+            "name": "Microsoft.Maui.Controls.Xaml",
+            "store_id": 0,
+            "blob_idx": 44,
+            "hash32": "0xa4672f3b",
+            "hash64": "0x1aa7e99ec2d2709a",
+            "file": "out/Microsoft.Maui.Controls.Xaml.dll",
+            "lz4_desc_idx": 10
+        },
+        {
+            "lz4": true,
+            "name": "Microsoft.Maui",
+            "store_id": 0,
+            "blob_idx": 45,
+            "hash32": "0x80bd55ad",
+            "hash64": "0x8a2b8315b36616ac",
+            "file": "out/Microsoft.Maui.dll",
+            "lz4_desc_idx": 14
+        },
+        {
+            "lz4": true,
+            "name": "Microsoft.Maui.Essentials",
+            "store_id": 0,
+            "blob_idx": 46,
+            "hash32": "0xaa8a4878",
+            "hash64": "0x2f98a5385a7b1ed8",
+            "file": "out/Microsoft.Maui.Essentials.dll",
+            "lz4_desc_idx": 12
+        },
+        {
+            "lz4": true,
+            "name": "Microsoft.Maui.Graphics",
+            "store_id": 0,
+            "blob_idx": 47,
+            "hash32": "0xa7008e0b",
+            "hash64": "0xe70da84600bb4e86",
+            "file": "out/Microsoft.Maui.Graphics.dll",
+            "lz4_desc_idx": 13
+        },
+        {
+            "lz4": true,
+            "name": "Xamarin.AndroidX.Activity",
+            "store_id": 0,
+            "blob_idx": 48,
+            "hash32": "0xa2e0939b",
+            "hash64": "0x4288cfb749e4c631",
+            "file": "out/Xamarin.AndroidX.Activity.dll",
+            "lz4_desc_idx": 44
+        },
+        {
+            "lz4": true,
+            "name": "Xamarin.AndroidX.AppCompat",
+            "store_id": 0,
+            "blob_idx": 49,
+            "hash32": "0x3dbaaf8f",
+            "hash64": "0x8168042fd44a7c7a",
+            "file": "out/Xamarin.AndroidX.AppCompat.dll",
+            "lz4_desc_idx": 46
+        },
+        {
+            "lz4": true,
+            "name": "Xamarin.AndroidX.AppCompat.AppCompatResources",
+            "store_id": 0,
+            "blob_idx": 50,
+            "hash32": "0x57924923",
+            "hash64": "0x6cbfa6390d64d704",
+            "file": "out/Xamarin.AndroidX.AppCompat.AppCompatResources.dll",
+            "lz4_desc_idx": 45
+        },
+        {
+            "lz4": true,
+            "name": "Xamarin.AndroidX.CardView",
+            "store_id": 0,
+            "blob_idx": 51,
+            "hash32": "0xc235e84d",
+            "hash64": "0xc405fd76067d19e1",
+            "file": "out/Xamarin.AndroidX.CardView.dll",
+            "lz4_desc_idx": 47
+        },
+        {
+            "lz4": true,
+            "name": "Xamarin.AndroidX.Collection",
+            "store_id": 0,
+            "blob_idx": 52,
+            "hash32": "0xe1ae15d6",
+            "hash64": "0xb041653c70d157d3",
+            "file": "out/Xamarin.AndroidX.Collection.dll",
+            "lz4_desc_idx": 48
+        },
+        {
+            "lz4": true,
+            "name": "Xamarin.AndroidX.CoordinatorLayout",
+            "store_id": 0,
+            "blob_idx": 53,
+            "hash32": "0x53cefc50",
+            "hash64": "0x2248f922dc398cba",
+            "file": "out/Xamarin.AndroidX.CoordinatorLayout.dll",
+            "lz4_desc_idx": 49
+        },
+        {
+            "lz4": true,
+            "name": "Xamarin.AndroidX.Core",
+            "store_id": 0,
+            "blob_idx": 54,
+            "hash32": "0xc86c06e3",
+            "hash64": "0x90bf592ea44f6673",
+            "file": "out/Xamarin.AndroidX.Core.dll",
+            "lz4_desc_idx": 50
+        },
+        {
+            "lz4": true,
+            "name": "Xamarin.AndroidX.CursorAdapter",
+            "store_id": 0,
+            "blob_idx": 55,
+            "hash32": "0x6188ba7e",
+            "hash64": "0x9d630238642d465c",
+            "file": "out/Xamarin.AndroidX.CursorAdapter.dll",
+            "lz4_desc_idx": 51
+        },
+        {
+            "lz4": true,
+            "name": "Xamarin.AndroidX.CustomView",
+            "store_id": 0,
+            "blob_idx": 56,
+            "hash32": "0x2568904f",
+            "hash64": "0x8df4cb880b10061b",
+            "file": "out/Xamarin.AndroidX.CustomView.dll",
+            "lz4_desc_idx": 52
+        },
+        {
+            "lz4": true,
+            "name": "Xamarin.AndroidX.DrawerLayout",
+            "store_id": 0,
+            "blob_idx": 57,
+            "hash32": "0xb18af942",
+            "hash64": "0x0c1ccf42c3c21c44",
+            "file": "out/Xamarin.AndroidX.DrawerLayout.dll",
+            "lz4_desc_idx": 53
+        },
+        {
+            "lz4": true,
+            "name": "Xamarin.AndroidX.Fragment",
+            "store_id": 0,
+            "blob_idx": 58,
+            "hash32": "0x6a96652d",
+            "hash64": "0xc1b8989a7ad20fb0",
+            "file": "out/Xamarin.AndroidX.Fragment.dll",
+            "lz4_desc_idx": 54
+        },
+        {
+            "lz4": true,
+            "name": "Xamarin.AndroidX.Lifecycle.Common",
+            "store_id": 0,
+            "blob_idx": 59,
+            "hash32": "0x146817a2",
+            "hash64": "0x2da6b911e3063621",
+            "file": "out/Xamarin.AndroidX.Lifecycle.Common.dll",
+            "lz4_desc_idx": 55
+        },
+        {
+            "lz4": true,
+            "name": "Xamarin.AndroidX.Lifecycle.LiveData.Core",
+            "store_id": 0,
+            "blob_idx": 60,
+            "hash32": "0xd90e5f5a",
+            "hash64": "0x58d75d486341cfb2",
+            "file": "out/Xamarin.AndroidX.Lifecycle.LiveData.Core.dll",
+            "lz4_desc_idx": 56
+        },
+        {
+            "lz4": true,
+            "name": "Xamarin.AndroidX.Lifecycle.ViewModel",
+            "store_id": 0,
+            "blob_idx": 61,
+            "hash32": "0x785e97f1",
+            "hash64": "0xf5c6c68c9e45303b",
+            "file": "out/Xamarin.AndroidX.Lifecycle.ViewModel.dll",
+            "lz4_desc_idx": 57
+        },
+        {
+            "lz4": true,
+            "name": "Xamarin.AndroidX.Lifecycle.ViewModelSavedState",
+            "store_id": 0,
+            "blob_idx": 62,
+            "hash32": "0xffd4917f",
+            "hash64": "0xd841015ed86f6aab",
+            "file": "out/Xamarin.AndroidX.Lifecycle.ViewModelSavedState.dll",
+            "lz4_desc_idx": 58
+        },
+        {
+            "lz4": true,
+            "name": "Xamarin.AndroidX.Loader",
+            "store_id": 0,
+            "blob_idx": 63,
+            "hash32": "0x6bcd3296",
+            "hash64": "0xf5b1dfc36cac272b",
+            "file": "out/Xamarin.AndroidX.Loader.dll",
+            "lz4_desc_idx": 59
+        },
+        {
+            "lz4": true,
+            "name": "Xamarin.AndroidX.Navigation.Common",
+            "store_id": 0,
+            "blob_idx": 64,
+            "hash32": "0xb63fa9f0",
+            "hash64": "0xfb7ada42d3d42cf8",
+            "file": "out/Xamarin.AndroidX.Navigation.Common.dll",
+            "lz4_desc_idx": 60
+        },
+        {
+            "lz4": true,
+            "name": "Xamarin.AndroidX.Navigation.Fragment",
+            "store_id": 0,
+            "blob_idx": 65,
+            "hash32": "0xd930cda0",
+            "hash64": "0xebe54bb02d623e5d",
+            "file": "out/Xamarin.AndroidX.Navigation.Fragment.dll",
+            "lz4_desc_idx": 61
+        },
+        {
+            "lz4": true,
+            "name": "Xamarin.AndroidX.Navigation.Runtime",
+            "store_id": 0,
+            "blob_idx": 66,
+            "hash32": "0xc774da4f",
+            "hash64": "0x77e5fbdaa2fda2e0",
+            "file": "out/Xamarin.AndroidX.Navigation.Runtime.dll",
+            "lz4_desc_idx": 62
+        },
+        {
+            "lz4": true,
+            "name": "Xamarin.AndroidX.Navigation.UI",
+            "store_id": 0,
+            "blob_idx": 67,
+            "hash32": "0xea4fb52e",
+            "hash64": "0xe771bb8960dd8b46",
+            "file": "out/Xamarin.AndroidX.Navigation.UI.dll",
+            "lz4_desc_idx": 63
+        },
+        {
+            "lz4": true,
+            "name": "Xamarin.AndroidX.RecyclerView",
+            "store_id": 0,
+            "blob_idx": 68,
+            "hash32": "0xc92a6809",
+            "hash64": "0x33baa1739ba646bd",
+            "file": "out/Xamarin.AndroidX.RecyclerView.dll",
+            "lz4_desc_idx": 64
+        },
+        {
+            "lz4": true,
+            "name": "Xamarin.AndroidX.SavedState",
+            "store_id": 0,
+            "blob_idx": 69,
+            "hash32": "0x52114ed3",
+            "hash64": "0x197cf449ebe482d1",
+            "file": "out/Xamarin.AndroidX.SavedState.dll",
+            "lz4_desc_idx": 65
+        },
+        {
+            "lz4": true,
+            "name": "Xamarin.AndroidX.SwipeRefreshLayout",
+            "store_id": 0,
+            "blob_idx": 70,
+            "hash32": "0x6947f945",
+            "hash64": "0x30e2543832f52197",
+            "file": "out/Xamarin.AndroidX.SwipeRefreshLayout.dll",
+            "lz4_desc_idx": 66
+        },
+        {
+            "lz4": true,
+            "name": "Xamarin.AndroidX.ViewPager",
+            "store_id": 0,
+            "blob_idx": 71,
+            "hash32": "0xaa107fc4",
+            "hash64": "0x9ae7d54b986d05c6",
+            "file": "out/Xamarin.AndroidX.ViewPager.dll",
+            "lz4_desc_idx": 67
+        },
+        {
+            "lz4": true,
+            "name": "Xamarin.AndroidX.ViewPager2",
+            "store_id": 0,
+            "blob_idx": 72,
+            "hash32": "0x60d97228",
+            "hash64": "0x813d54296a634f33",
+            "file": "out/Xamarin.AndroidX.ViewPager2.dll",
+            "lz4_desc_idx": 68
+        },
+        {
+            "lz4": true,
+            "name": "Xamarin.Google.Android.Material",
+            "store_id": 0,
+            "blob_idx": 73,
+            "hash32": "0x6c13413e",
+            "hash64": "0x29e10a7f7d88a002",
+            "file": "out/Xamarin.Google.Android.Material.dll",
+            "lz4_desc_idx": 69
+        },
+        {
+            "lz4": true,
+            "name": "Xamarin.Kotlin.StdLib",
+            "store_id": 0,
+            "blob_idx": 74,
+            "hash32": "0x409e66d8",
+            "hash64": "0xbadf06394d106fcc",
+            "file": "out/Xamarin.Kotlin.StdLib.dll",
+            "lz4_desc_idx": 70
+        },
+        {
+            "lz4": true,
+            "name": "Xamarin.KotlinX.Coroutines.Core.Jvm",
+            "store_id": 0,
+            "blob_idx": 75,
+            "hash32": "0x9b500441",
+            "hash64": "0x2e6a1a9a18463545",
+            "file": "out/Xamarin.KotlinX.Coroutines.Core.Jvm.dll",
+            "lz4_desc_idx": 71
+        },
+        {
+            "lz4": true,
+            "name": "CrackMe",
+            "store_id": 0,
+            "blob_idx": 76,
+            "hash32": "0xee6092dc",
+            "hash64": "0xdc5e0e1dfec7a99a",
+            "file": "out/CrackMe.dll",
+            "lz4_desc_idx": 0
+        },
+        {
+            "lz4": true,
+            "name": "System.Collections.NonGeneric",
+            "store_id": 0,
+            "blob_idx": 77,
+            "hash32": "0xe2098b0b",
+            "hash64": "0xec090a90408c8cd4",
+            "file": "out/System.Collections.NonGeneric.dll",
+            "lz4_desc_idx": 17
+        },
+        {
+            "lz4": true,
+            "name": "System.Collections",
+            "store_id": 0,
+            "blob_idx": 78,
+            "hash32": "0x1a61054f",
+            "hash64": "0x7198e33f4794aa70",
+            "file": "out/System.Collections.dll",
+            "lz4_desc_idx": 18
+        },
+        {
+            "lz4": true,
+            "name": "System.ComponentModel.Primitives",
+            "store_id": 0,
+            "blob_idx": 79,
+            "hash32": "0xb660be12",
+            "hash64": "0xecc8e986518c9786",
+            "file": "out/System.ComponentModel.Primitives.dll",
+            "lz4_desc_idx": 19
+        },
+        {
+            "lz4": true,
+            "name": "System.ComponentModel.TypeConverter",
+            "store_id": 0,
+            "blob_idx": 80,
+            "hash32": "0x408b17f4",
+            "hash64": "0x3a5e0299f7e7ad93",
+            "file": "out/System.ComponentModel.TypeConverter.dll",
+            "lz4_desc_idx": 20
+        },
+        {
+            "lz4": true,
+            "name": "System.ComponentModel",
+            "store_id": 0,
+            "blob_idx": 81,
+            "hash32": "0x0c38ff48",
+            "hash64": "0x39a7562737acb67e",
+            "file": "out/System.ComponentModel.dll",
+            "lz4_desc_idx": 21
+        },
+        {
+            "lz4": true,
+            "name": "System.Console",
+            "store_id": 0,
+            "blob_idx": 82,
+            "hash32": "0x7ec9ffe9",
+            "hash64": "0xd77dbb1e38cd3d6f",
+            "file": "out/System.Console.dll",
+            "lz4_desc_idx": 22
+        },
+        {
+            "lz4": true,
+            "name": "System.Diagnostics.DiagnosticSource",
+            "store_id": 0,
+            "blob_idx": 83,
+            "hash32": "0xdf6f3870",
+            "hash64": "0x703b87d46f3aa082",
+            "file": "out/System.Diagnostics.DiagnosticSource.dll",
+            "lz4_desc_idx": 23
+        },
+        {
+            "lz4": true,
+            "name": "System.IO.Compression.Brotli",
+            "store_id": 0,
+            "blob_idx": 84,
+            "hash32": "0x317d5b75",
+            "hash64": "0x4d4f74fcdfa6c35f",
+            "file": "out/System.IO.Compression.Brotli.dll",
+            "lz4_desc_idx": 24
+        },
+        {
+            "lz4": true,
+            "name": "System.IO.Compression",
+            "store_id": 0,
+            "blob_idx": 85,
+            "hash32": "0x2e394f87",
+            "hash64": "0xae2d28465e8e1b2f",
+            "file": "out/System.IO.Compression.dll",
+            "lz4_desc_idx": 25
+        },
+        {
+            "lz4": true,
+            "name": "System.Linq.Expressions",
+            "store_id": 0,
+            "blob_idx": 86,
+            "hash32": "0x6ec71a65",
+            "hash64": "0x3a1cea1e912fa117",
+            "file": "out/System.Linq.Expressions.dll",
+            "lz4_desc_idx": 26
+        },
+        {
+            "lz4": true,
+            "name": "System.Linq",
+            "store_id": 0,
+            "blob_idx": 87,
+            "hash32": "0x4eed2679",
+            "hash64": "0x64e71ccf51a90a5a",
+            "file": "out/System.Linq.dll",
+            "lz4_desc_idx": 27
+        },
+        {
+            "lz4": true,
+            "name": "System.Memory",
+            "store_id": 0,
+            "blob_idx": 88,
+            "hash32": "0xeff49a63",
+            "hash64": "0x370b03412596249e",
+            "file": "out/System.Memory.dll",
+            "lz4_desc_idx": 28
+        },
+        {
+            "lz4": true,
+            "name": "System.Net.Http",
+            "store_id": 0,
+            "blob_idx": 89,
+            "hash32": "0x8334206b",
+            "hash64": "0x6a3a4366801b8264",
+            "file": "out/System.Net.Http.dll",
+            "lz4_desc_idx": 29
+        },
+        {
+            "lz4": true,
+            "name": "System.Net.Primitives",
+            "store_id": 0,
+            "blob_idx": 90,
+            "hash32": "0x8c40e0db",
+            "hash64": "0x95ac8cfb68830758",
+            "file": "out/System.Net.Primitives.dll",
+            "lz4_desc_idx": 30
+        },
+        {
+            "lz4": true,
+            "name": "System.Net.Requests",
+            "store_id": 0,
+            "blob_idx": 91,
+            "hash32": "0x2d445acd",
+            "hash64": "0x369840a8bfadc09b",
+            "file": "out/System.Net.Requests.dll",
+            "lz4_desc_idx": 31
+        },
+        {
+            "lz4": true,
+            "name": "System.Numerics.Vectors",
+            "store_id": 0,
+            "blob_idx": 92,
+            "hash32": "0x7c9bf920",
+            "hash64": "0x5faf683aead1ad72",
+            "file": "out/System.Numerics.Vectors.dll",
+            "lz4_desc_idx": 32
+        },
+        {
+            "lz4": true,
+            "name": "System.ObjectModel",
+            "store_id": 0,
+            "blob_idx": 93,
+            "hash32": "0x1dbae811",
+            "hash64": "0x67ee71ff6b419e3f",
+            "file": "out/System.ObjectModel.dll",
+            "lz4_desc_idx": 33
+        },
+        {
+            "lz4": true,
+            "name": "System.Private.Uri",
+            "store_id": 0,
+            "blob_idx": 94,
+            "hash32": "0xf462c30d",
+            "hash64": "0x76d841191140ca5b",
+            "file": "out/System.Private.Uri.dll",
+            "lz4_desc_idx": 34
+        },
+        {
+            "lz4": true,
+            "name": "System.Private.Xml",
+            "store_id": 0,
+            "blob_idx": 95,
+            "hash32": "0x79eb68ee",
+            "hash64": "0x8b7d990c97ccccd3",
+            "file": "out/System.Private.Xml.dll",
+            "lz4_desc_idx": 35
+        },
+        {
+            "lz4": true,
+            "name": "System.Runtime.InteropServices",
+            "store_id": 0,
+            "blob_idx": 96,
+            "hash32": "0x06ffddbc",
+            "hash64": "0x9f6614bf0f8b71b6",
+            "file": "out/System.Runtime.InteropServices.dll",
+            "lz4_desc_idx": 36
+        },
+        {
+            "lz4": true,
+            "name": "System.Runtime.Loader",
+            "store_id": 0,
+            "blob_idx": 97,
+            "hash32": "0x9ec4cf01",
+            "hash64": "0x496ca6b869b72699",
+            "file": "out/System.Runtime.Loader.dll",
+            "lz4_desc_idx": 37
+        },
+        {
+            "lz4": true,
+            "name": "System.Runtime",
+            "store_id": 0,
+            "blob_idx": 98,
+            "hash32": "0x62c6282e",
+            "hash64": "0x22a7eb7046413568",
+            "file": "out/System.Runtime.dll",
+            "lz4_desc_idx": 38
+        },
+        {
+            "lz4": true,
+            "name": "System.Security.Cryptography",
+            "store_id": 0,
+            "blob_idx": 99,
+            "hash32": "0x641f3e5a",
+            "hash64": "0x7423997c6fd56140",
+            "file": "out/System.Security.Cryptography.dll",
+            "lz4_desc_idx": 39
+        },
+        {
+            "lz4": true,
+            "name": "System.Threading.Thread",
+            "store_id": 0,
+            "blob_idx": 100,
+            "hash32": "0x028aa24d",
+            "hash64": "0x0a6ba5a4da7d1ff8",
+            "file": "out/System.Threading.Thread.dll",
+            "lz4_desc_idx": 40
+        },
+        {
+            "lz4": true,
+            "name": "System.Threading",
+            "store_id": 0,
+            "blob_idx": 101,
+            "hash32": "0xbff2e236",
+            "hash64": "0xfa28e87b91334681",
+            "file": "out/System.Threading.dll",
+            "lz4_desc_idx": 41
+        },
+        {
+            "lz4": true,
+            "name": "System.Xml.ReaderWriter",
+            "store_id": 0,
+            "blob_idx": 102,
+            "hash32": "0xea213423",
+            "hash64": "0x329f6d1e86145474",
+            "file": "out/System.Xml.ReaderWriter.dll",
+            "lz4_desc_idx": 42
+        },
+        {
+            "lz4": true,
+            "name": "System",
+            "store_id": 0,
+            "blob_idx": 103,
+            "hash32": "0x41761b2c",
+            "hash64": "0xe03056ea4e39aa26",
+            "file": "out/System.dll",
+            "lz4_desc_idx": 43
+        },
+        {
+            "lz4": true,
+            "name": "Java.Interop",
+            "store_id": 0,
+            "blob_idx": 104,
+            "hash32": "0xc8a662e9",
+            "hash64": "0x77b654e585b55834",
+            "file": "out/Java.Interop.dll",
+            "lz4_desc_idx": 1
+        },
+        {
+            "lz4": true,
+            "name": "Mono.Android.Runtime",
+            "store_id": 0,
+            "blob_idx": 105,
+            "hash32": "0xb65adef9",
+            "hash64": "0x1500eaa8245f6c5b",
+            "file": "out/Mono.Android.Runtime.dll",
+            "lz4_desc_idx": 15
+        },
+        {
+            "lz4": true,
+            "name": "Mono.Android",
+            "store_id": 0,
+            "blob_idx": 106,
+            "hash32": "0xcf3163e6",
+            "hash64": "0x01accec39cafe242",
+            "file": "out/Mono.Android.dll",
+            "lz4_desc_idx": 16
+        },
+        {
+            "lz4": true,
+            "name": "System.Collections.Concurrent",
+            "store_id": 1,
+            "blob_idx": 0,
+            "hash32": "0x2814a96c",
+            "hash64": "0x1fc00515e8ce7513",
+            "file": "out/System.Collections.Concurrent.dll",
+            "lz4_desc_idx": 74
+        },
+        {
+            "lz4": true,
+            "name": "System.Private.CoreLib",
+            "store_id": 1,
+            "blob_idx": 1,
+            "hash32": "0xad6f1e8a",
+            "hash64": "0x6b0ff375198b9c17",
+            "file": "out/System.Private.CoreLib.dll",
+            "lz4_desc_idx": 75
+        },
+        {
+            "lz4": true,
+            "name": "System.Text.RegularExpressions",
+            "store_id": 1,
+            "blob_idx": 2,
+            "hash32": "0x61c036ca",
+            "hash64": "0x860e407c9991dd9b",
+            "file": "out/System.Text.RegularExpressions.dll",
+            "lz4_desc_idx": 76
+        }
+    ]
+}
