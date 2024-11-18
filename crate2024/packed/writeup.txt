@@ -1,0 +1,12 @@
+#eltrix
+
+after download the flag.packed from website and test packe some file with specific content
+
+i undrestan how packe algorithem work.
+
+i test aaaa and see the packed contain a - 0x50 with iteration number
+
+so i write a script to extract original data and then cat the file and find the flag
+
+cratectf{AlltÄrÖppenSåsOmManKanReversera}
+
