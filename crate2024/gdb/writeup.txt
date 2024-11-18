@@ -1,0 +1,31 @@
+#eltrix
+
+first of all i saw that the sigv error is in getc function.
+
+i start program normaly with start command (there was symbols).
+
+it start main funciton and in the second instruciton it call a pring_flag 
+
+i go inside it with si (step in).
+
+before follow the flow of print_flag funciton i saw all the instructions with
+
+disassemble print_flag
+
+it was clear that it open /flag.txt and then read char by char (with getc function) and print it (with putchar)
+
+i went ahead and the i found the bug after call open function.
+
+the result in rax was null that means the fopen doesnt retrun the pointer to /flag.txt
+
+again i run the program and see the paramter of fopen (in rdi an rsi)
+
+i saw "open" as a second arguman and "/flag.txt" as first
+
+it is cleart that second arguman in fopen is mode of file (like r for reading or w for writing and ...)
+
+i change the value of it in register and then i press c for continure the program.
+
+so well
+
+it printed the flag.
