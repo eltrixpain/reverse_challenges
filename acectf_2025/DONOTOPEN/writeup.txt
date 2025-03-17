@@ -1,0 +1,6 @@
+#eltrix
+1) change temp direcory to my own directory
+2) remove command "rm -rf temp-directory"
+3) open created folder
+4) run the pyhotn code and enter ACE@SE7EN as pin 
+flag = "ACE{e2e3619b630b3be9de762910fd58dba7}"

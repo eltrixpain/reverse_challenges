@@ -1,0 +1,10 @@
+[package]
+name = "chemistryofcode"
+version = "0.1.0"
+edition = "2021"
+
+[dependencies]
+base64 = "0.22.0"
+hex = "0.4.3"
+num-bigint = "0.4"
+num-traits = "0.2"
